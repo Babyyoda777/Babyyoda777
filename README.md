@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning CSS, HTML AND Java
 - 💞️ I’m looking to collaborate on jailbreaking.
 - 📫 How to reach me u/AmountOk3836 on Reddit
-See my website https://babyyoda777.ga !
+See my website https://www.babyyoda777.ga !
 <!---
 Babyyoda777/babyyoda777.github.io/ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
