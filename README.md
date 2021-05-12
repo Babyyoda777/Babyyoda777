@@ -24,7 +24,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://github.com/babyyoda777);
+- 📫 How to reach me: [babyyoda777](https://github.com/babyyoda777);
 
 **Languages and Tools:**  
 
