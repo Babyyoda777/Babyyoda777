@@ -19,3 +19,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 [![Babyyoda777's Stats](https://github-readme-stats.vercel.app/api?username=babyyoda777)](https://github.com/anuraghazra/github-readme-stats)
 
+killall -STOP AMPDevicesAgent AMPDeviceDiscoveryAgent MobileDeviceUpdater; sudo ~/tools/eclipsa/eclipsa8000; killall -CONT AMPDevicesAgent AMPDeviceDiscoveryAgent MobileDeviceUpdater
+
+fix a9 nonce setter
