@@ -22,3 +22,12 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 killall -STOP AMPDevicesAgent AMPDeviceDiscoveryAgent MobileDeviceUpdater; sudo ~/tools/eclipsa/eclipsa8000; killall -CONT AMPDevicesAgent AMPDeviceDiscoveryAgent MobileDeviceUpdater
 
 fix a9 nonce setter
+
+
+
+git clone https://github.com/0x7ff/eclipsa.git
+cd eclipsa
+git fetch origin 7ffffff1cc9fc7f3ce3b02fef3b8875d2bdf3115
+git reset --hard FETCH_HEAD
+
+make CPID=0x8000
